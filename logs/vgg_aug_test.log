@@ -1,0 +1,7 @@
+Evaluation (pixels): {
+  "min": 0.0625268965959549,
+  "max": 76.26627349853516,
+  "mean": 5.587863445281982,
+  "stdev": 6.198853015899658
+}
+Wrote vgg16_aug_eval.csv

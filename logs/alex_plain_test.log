@@ -1,0 +1,7 @@
+Evaluation (pixels): {
+  "min": 0.117282435297966,
+  "max": 103.53864288330078,
+  "mean": 13.763339042663574,
+  "stdev": 11.983646392822266
+}
+Wrote alexnet_plain_eval.csv

@@ -1,0 +1,7 @@
+Evaluation (pixels): {
+  "min": 0.6039127707481384,
+  "max": 134.99124145507812,
+  "mean": 27.499317169189453,
+  "stdev": 20.04349708557129
+}
+Wrote snoutnet_aug_eval.csv

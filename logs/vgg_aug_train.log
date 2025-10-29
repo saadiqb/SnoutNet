@@ -1,0 +1,21 @@
+Epoch 001 | train 745.3884 | val 235.9031
+Epoch 002 | train 178.4371 | val 114.5222
+Epoch 003 | train 136.4603 | val 157.4295
+Epoch 004 | train 116.0508 | val 76.6624
+Epoch 005 | train 88.7702 | val 82.5942
+Epoch 006 | train 91.6371 | val 57.8022
+Epoch 007 | train 76.0425 | val 53.8655
+Epoch 008 | train 68.2330 | val 47.2383
+Epoch 009 | train 68.9504 | val 44.9972
+Epoch 010 | train 61.4024 | val 45.2046
+Epoch 011 | train 61.7957 | val 41.5762
+Epoch 012 | train 51.4025 | val 50.4000
+Epoch 013 | train 52.4068 | val 43.8937
+Epoch 014 | train 46.5910 | val 43.3393
+Epoch 015 | train 51.9174 | val 43.9860
+Epoch 016 | train 49.5109 | val 47.7524
+Epoch 017 | train 56.3286 | val 39.7897
+Epoch 018 | train 44.0546 | val 43.1456
+Epoch 019 | train 40.7469 | val 34.8228
+Epoch 020 | train 40.8205 | val 48.4960
+Saved checkpoint to checkpoints/vgg16_aug.pt

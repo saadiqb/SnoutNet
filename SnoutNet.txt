@@ -1,0 +1,5 @@
+# SnoutNet baseline
+python -m scripts.train --data_root ./data --model snoutnet --epochs 20 --batch_size 64 --lr 1e-3 --save checkpoints --pretrained  # ignored for snoutnet
+python -m scripts.train --data_root ./data --model snoutnet --epochs 20 --batch_size 64 --lr 1e-3 --aug --save checkpoints
+python -m scripts.test  --data_root ./data --ckpt checkpoints/snoutnet_plain.pt --save_csv snoutnet_eval.csv
+python -m scripts.visualize --data_root ./data --ckpt checkpoints/snoutnet_aug.pt --out_dir vis/snoutnet --num 4

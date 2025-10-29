@@ -1,0 +1,21 @@
+Epoch 001 | train 1612.3437 | val 405.7953
+Epoch 002 | train 411.5379 | val 452.5309
+Epoch 003 | train 335.1391 | val 250.4186
+Epoch 004 | train 291.8860 | val 235.5244
+Epoch 005 | train 248.4032 | val 270.5694
+Epoch 006 | train 226.1818 | val 194.7374
+Epoch 007 | train 201.8972 | val 191.2728
+Epoch 008 | train 193.4236 | val 180.7353
+Epoch 009 | train 172.2927 | val 210.7651
+Epoch 010 | train 168.7041 | val 196.9514
+Epoch 011 | train 152.0139 | val 182.1877
+Epoch 012 | train 143.9522 | val 162.6690
+Epoch 013 | train 144.3627 | val 179.6511
+Epoch 014 | train 131.0550 | val 182.9368
+Epoch 015 | train 130.9830 | val 172.3262
+Epoch 016 | train 132.1894 | val 211.8449
+Epoch 017 | train 118.5827 | val 154.8937
+Epoch 018 | train 115.5062 | val 140.4087
+Epoch 019 | train 111.6372 | val 174.3647
+Epoch 020 | train 104.8521 | val 162.5526
+Saved checkpoint to checkpoints/alexnet_aug.pt

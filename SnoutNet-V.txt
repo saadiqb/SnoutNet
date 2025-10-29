@@ -1,0 +1,5 @@
+# SnoutNet-V (VGG16 backbone, pretrained)
+python -m scripts.train --data_root ./data --model vgg16 --epochs 20 --batch_size 32 --lr 1e-4 --pretrained --save checkpoints
+python -m scripts.train --data_root ./data --model vgg16 --epochs 20 --batch_size 32 --lr 1e-4 --pretrained --aug --save checkpoints
+python -m scripts.test  --data_root ./data --ckpt checkpoints/vgg16_plain.pt --save_csv vgg16_eval.csv
+python -m scripts.visualize --data_root ./data --ckpt checkpoints/vgg16_aug.pt --out_dir vis/vgg16 --num 4

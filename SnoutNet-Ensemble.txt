@@ -1,0 +1,3 @@
+# Ensemble (uses the previously trained checkpoints)
+python -m scripts.ensemble --data_root ./data --snoutnet_ckpt checkpoints/snoutnet_aug.pt --alexnet_ckpt checkpoints/alexnet_aug.pt --vgg16_ckpt checkpoints/vgg16_aug.pt
+python -m scripts.visualize --data_root ./data --ckpt checkpoints/snoutnet_aug.pt --out_dir vis/ensemble_hint --num 4  # (visualize any of the single models' predictions)
