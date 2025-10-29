@@ -8,6 +8,9 @@ Models (implementation files)
 - [models/snoutnet_alexnet.py](models/snoutnet_alexnet.py)
 - [models/snoutnet_vgg.py](models/snoutnet_vgg.py)
 
+![SnoutNet Architecture](./Architecture.png)
+
+
 Scripts (entry points)
 - [`scripts/train.py`](scripts/train.py) — main training entry
 - [`scripts/test.py`](scripts/test.py) — evaluation / quick checks
