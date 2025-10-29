@@ -1,7 +1,5 @@
 # SnoutNet — Pet Nose Localization
 
-Pet Nose Localization
-
 ![Visualization](./vis/compare4/cmp_000_basset_hound_60.png)
 
 
